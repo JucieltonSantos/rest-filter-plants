@@ -1,0 +1,190 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #ffffff;
+}
+.header-tit--1 {
+    height: 252px;
+    width: 400px;
+    left: 270px;
+    top: 124px;
+}
+.display-3 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 85px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.header-logo--1 {
+    height: 25px;
+    width: 209px;
+    left: 270px;
+    margin-bottom: 57px;
+    border-radius: 0px;   
+}
+.image-header {
+    background-color: #75BC97;
+    background-image: url(images/hero/desktop/left-leaves.png), url(images/hero/desktop/plantperson.png), url(images/hero/desktop/right-leaves.png);
+    background-position: left, 70%, right ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.header-icon--1 {
+    margin-top: 30px;
+}
+.container-text--1 {
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    margin-top: 30px;   
+}
+.container-imagem--1 {
+    height: 55px;
+}
+.container-form-select {
+    border: 1px solid #A8A8A8;
+    box-sizing: border-box;
+    border-radius: 19px;
+    height: 40px;
+    width: 219px;
+    border-radius: 19px;
+    color: #A8A8A8;
+}
+.display-4 {
+    color: #0C261C;
+    font-family: Montserrat;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.container-tit--1 {
+    margin-top: 40px;
+}
+.background-2 {
+    background: #F2F2F2;
+    margin-top: 60px;
+}
+.card {
+    margin: 1rem;
+    height: 245px;
+    width: 206px;
+}
+.card-text--title {
+    color: #1E6B4E;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.card-text--price{
+    color: #257556;
+    font-size: 16px;
+    font-weight: bold;
+}
+.card-content--2 {
+    display: flex;
+}
+.card-content--icons {
+    margin-left: auto;
+    display: flex;
+}
+#accordion {
+    display: contents;
+}
+.card-body {
+    height: 245px;
+    width: 206px;
+    border-radius: 5px;
+}
+.card-content--img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 60%;
+}
+.svg-block{
+    display: block;
+    margin: 2px;
+}
+.svg-none{
+    display: none;
+}
+.btn{
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid #15573F;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+.star-block{
+    display: block;
+}
+.star-none{
+    display: none;
+}
+.card-star {
+    height: 510px;
+    width: 437px;
+    border-radius: 5px;
+}
+.card-content--img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-text--title2 {
+    color: #1E6B4E;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 200px;
+    margin-left: 40px;
+}
+.card-text--price2 {
+    color: #257556;
+    font-size: 24px;
+    font-weight: bold;
+}
+.card-big--text {
+    width: 400px;
+}
+.card-content--3 {
+    float: right;
+}
+.card2 {
+    margin: 0 auto;
+}
+.align-image2 {
+    margin-top: 10px;
+}
+.card-span--1 {
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.card-no-result-h{
+    color: #A9A9A9;
+    font-size: 45px;
+    font-weight: bold;    
+}
+.card-no-result-p{
+    width: 219px;
+    color: #A9A9A9;
+    font-size: 16px;
+}
+.no-result{
+    display: none;
+    margin: 56px;
+}
+.img-no-result {
+    margin-left: 200px;
+}
